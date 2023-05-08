@@ -463,26 +463,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://ftp6284928.host108.abeiyun.cn/json/Biliych.json"
-    },
-    {
-      "key": "csp_Alist1",
-      "name": "Alist网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://ftp6284928.host108.abeiyun.cn/json/alist.json"
-    },
-    {
-      "key": "csp_Push",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://ftp6284928.host108.abeiyun.cn/json/token.txt"
     }
   ],
   "parses": [
