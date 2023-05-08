@@ -1,11 +1,10 @@
 {
   "spider": "http://ftp6284928.host108.abeiyun.cn/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51",
-  "wallpaper": "",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "./live/live.txt",
+      "url": "https://raw.gitmirror.com/litiantaos/tvsource/main/live/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
